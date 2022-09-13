@@ -10,5 +10,5 @@
     5. no_info_data_345.csv : loan_result인 345월 데이터
     6. predict_final_no_info.csv : loan_result인 6월 데이터 (대회 문제)
 
-    - 비고
-      application_id가 loan_result에는 있지만 user_spec에는 없는 데이터가 존재하여 1-4묶음과 5-6묶음으로 분리함.
+  - 비고
+      application_id가 loan_result에는 있지만 user_spec에는 없는 데이터가 존재하여 a-d묶음과 e-f묶음으로 분리함.
