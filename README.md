@@ -1,10 +1,10 @@
 # 빅콘테스트 2022 퓨처스 부문
 ### 🏆 본선 진출 🏆
 
-팀명 : nan알아요
-팀원 : 김희경, 이영아, 이지수, 최윤서
-팀 노션 페이지 : [nan알아요 notion page](https://www.notion.so/2022-bigcontest-8e644f75749041debe979cc497ccf2f7)
-분석 보고서 : [분석 보고서 바로가기](https://github.com/YunSeo00/bigcontest2022/blob/main/final_result/nan%EC%95%8C%EC%95%84%EC%9A%94%ED%8C%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%A6%AC%EA%B7%B8_%ED%93%A8%EC%B2%98%EC%8A%A4%EB%B6%84%EC%95%BC_%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+- 팀명 : nan알아요
+- 팀원 : 김희경, 이영아, 이지수, 최윤서
+- 팀 노션 페이지 : [nan알아요 notion page](https://www.notion.so/2022-bigcontest-8e644f75749041debe979cc497ccf2f7)
+- 분석 보고서 : [분석 보고서 바로가기](https://github.com/YunSeo00/bigcontest2022/blob/main/final_result/nan%EC%95%8C%EC%95%84%EC%9A%94%ED%8C%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%A6%AC%EA%B7%B8_%ED%93%A8%EC%B2%98%EC%8A%A4%EB%B6%84%EC%95%BC_%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ### 대회 소개
 - [대회 공식 홈페이지](https://www.bigcontest.or.kr/)
